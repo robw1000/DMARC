@@ -1,0 +1,6 @@
+{
+  "name": "DMARC Analyzer",
+  "description": "Upload and visualize DMARC aggregate reports to analyze email authentication status and improve security posture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
